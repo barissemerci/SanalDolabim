@@ -2,14 +2,19 @@
 Mobil Programlamaya Giriş dersinin proje ödevi kapsamında Sanal Dolabım uygulaması yapılmıştır. 
 Bu proje Java dili ile kodlanmıştır. Nesneye Yönelik Programlama, Yerel Depolama (Internal Storage), Intent, Activity kavramları üzerinde durulmuştur.
 
+Proje dökümanına <a href="https://github.com/barissemerci/SanalDolabim/blob/master/2020%202021%20Bahar%20Yar%C4%B1y%C4%B1l%C4%B1%20BLM%203520%20Mobil%20Programlamaya%20Giri%C5%9F%20D%C3%B6nem%20Projesi.pdf" target="_blank">buradan</a>
+ulaşabilirsiniz.
+
+
+Ekran görüntüsünde görüldüğü üzere ilk olarak Çekmece Ekleme işlemi yapılmalıdır. Bunun için Çekmece Ekle butonuna tıklandıktan sonra çekmece ismi girilir ve ardından çekmeceye kıyafet ekle butonuna tıklayarak çekmeceye kıyafet eklenir. 
+
+<p float="left">
 <img src="https://user-images.githubusercontent.com/68946715/153848267-3678d84d-6328-4924-9a5e-fb4a0db2d0bd.png" width="300" height="600">
 
-Yukarıdaki ekran görüntüsünde görüldüğü üzere ilk olarak Çekmece Ekleme işlemi yapılmalıdır. Bunun için Çekmece Ekle butonuna tıklandıktan sonra çekmece ismi girilir ve ardından çekmeceye kıyafet ekle butonuna tıklayarak çekmeceye kıyafet eklenir. 
-
-
 <img src="https://user-images.githubusercontent.com/68946715/153849724-28752468-cd2b-47f5-9116-8a3d8c6a30d8.png" width="300" height="600">
+</p>
 
-'+' butonuna tıklayarak galeriden eklenecek kıyafetin resmi seçilir. Kıyafete ait bilgiler doldurulur ve Kıyafeti Kaydet butonuna basılır.
+'+' butonuna tıklanılarak galeriden eklenecek kıyafetin resmi seçilir. Kıyafete ait bilgiler doldurulur ve Kıyafeti Kaydet butonuna basılır.
 
 
 <p float="left">
